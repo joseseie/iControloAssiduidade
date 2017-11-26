@@ -7,7 +7,7 @@ Devido ao elevado número de estudantes ou turmas que alguns professores possuem
 
 ### Identificação do problema
 
-Os docentes tem tido muitas dificuldades na atribuição da nota de avalição contínua, devido ao facto de não ser fácil verificar as presenças de cada estudante desde o primeiro dia de aulas até ao último dia. E não sido tem fácil registar as participações de cada estudante em cada aula, o que faz com no final do semestre seja dificil saber a percentagem de participação exacta de cada estudante.
+Os docentes tem tido muitas dificuldades na atribuição da nota de avalição contínua, devido ao facto de não ser fácil verificar as presenças de cada estudante desde o primeiro dia de aulas até ao último dia. E não tem sido fácil registar as participações de cada estudante em cada aula, o que faz com que no final do semestre seja dificil saber a percentagem de participação exacta de cada estudante.
 
 ### Solução Proposta
 
